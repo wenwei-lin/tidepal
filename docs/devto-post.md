@@ -88,7 +88,7 @@ Most Creative or Delightful Use.
 
 Pip is a pet on purpose. But the same "eyes for the person" could sit next to other agents:
 
-- **Coding agents.** Hook Pip up to Claude Code or Codex. They already have the computer and the web; Pip adds how you're doing. An agent could slow down and explain more when you look lost.
+- **Coding agents.** Codex already has desktop pets: little companions that float over your windows and react to what the agent is doing, "thinking" or "task done". They look at the work. A pet with Pip's eyes could also look at the person: notice you frowning at a diff, or grinning when the tests pass, and respond to that. Coding agents like Codex or Claude Code already have the computer and the web; add how you're doing, and an agent could slow down and explain more when you look lost. I don't know of anyone doing this yet, and it seems like a fun interaction to try.
 - **Speaking practice.** When you practise a language or a talk, the moments you frown or hesitate are the parts you haven't figured out yet. Pip could mark them and go over them with you afterwards.
 - **Coaching.** A coach could get a small timeline of your expressions next to the transcript, to see which questions landed and which didn't.
 - **Calm moments.** A short breathing break where the tide follows your breath. I built a version of this and set it aside for now.
