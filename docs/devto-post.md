@@ -97,4 +97,4 @@ Pip is a pet on purpose. But the same "eyes for the person" could sit next to ot
 
 I built Pip with Claude Code, starting from "what could I make for this challenge?" and ending with a voice pet.
 
-{% agent_session SESSION_URL %}
+<!-- To add: upload the Claude Code session at https://dev.to/agent_sessions/new, make it public, then embed it here with the agent_session tag. -->
