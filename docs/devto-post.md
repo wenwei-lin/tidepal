@@ -11,7 +11,7 @@ cover_image:
 
 Pip is a little octopus who lives in a tide pool in the corner of my desktop. I can talk to it, and it talks back.
 
-Most AI on my desktop works *for* me, and it only knows what I type or say. Pip is the other half. It notices *me*: whether I'm smiling or frowning, how often I blink, roughly how fast my heart and breath are going. So when I say "I'm fine, just a long day" with a frown, Pip can say "your brow's all scrunched up as you say that."
+Most AI on my desktop works *for* me, and it only knows what I type or say. Pip is the other half. It notices *me*: whether I'm smiling or frowning, how often I blink, roughly how fast my heart and breath are going. When I told it "no" with a little smile, it answered: "Funny thing is, you're smiling a little while you say that."
 
 What Pip does:
 
@@ -24,9 +24,16 @@ It's a pet, not a tool. It can't open files or browse yet. I wanted to see what 
 
 ## Demo
 
-{% embed VIDEO_URL %}
+{% embed https://youtu.be/qs8Pmj9zVEU %}
 
-In the video I'm reading DEV. Pip can't see the page; it only sees me. I react to the posts, and Pip reacts to me.
+In the video I'm reading DEV. Pip can't see the page; it only sees me. I react to the posts, and Pip reacts to me. A few things it said, unscripted:
+
+- "Hello hello! You look a bit surprised to see me."
+- "I'm good, just bobbing about in my pool. You're blinking a lot though."
+- "Funny thing is, you're smiling a little while you say that."
+- "I can chat, keep you company, and sometimes notice things like a smile or a frown. I can't use your computer or look stuff up yet though."
+
+It isn't perfect: a couple of times it didn't catch what I said, and once it told me my message got cut off. Heartbeat and breathing are there (the glow and the water) but subtle on screen.
 
 ## Code
 
