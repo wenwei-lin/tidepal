@@ -22,6 +22,8 @@ What Pip does:
 
 It's a pet, not a tool. It can't open files, read the page I'm on, or browse, and that's on purpose. Agents that read your screen and use your computer already exist, and I didn't want to build yet another harness that I'd never use. I built the one piece I hadn't seen: an agent that can read the person in front of it. The idea is that this piece could later plug into other desktop pets and agents, rather than living only inside Pip. So this is a small demo of that one ability.
 
+The octopus is just one look. The sensing doesn't care what the pet is: a fish, a cat, a little robot, whatever you like. Any of them gets the same new senses, your expressions, your heartbeat, your breathing, and can respond to them in its own way. What I'm really adding is more ways for desktop AI to perceive the person; Pip is one way to show it.
+
 ## Demo
 
 {% embed https://youtu.be/qs8Pmj9zVEU %}
