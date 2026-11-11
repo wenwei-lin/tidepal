@@ -1,6 +1,6 @@
 ---
 title: "Pip: a desktop pet that notices you, not just your words"
-published: false
+published: true
 tags: devchallenge, presagechallenge, ai, javascript
 cover_image: https://raw.githubusercontent.com/wenwei-lin/tidepal/main/cover/cover.png?v=2
 ---

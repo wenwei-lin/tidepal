@@ -13,7 +13,7 @@ Built for the [Presage SmartSpectra SDK Challenge](https://dev.to/challenges/pre
 
 [![Pip demo video](https://img.youtube.com/vi/qs8Pmj9zVEU/hqdefault.jpg)](https://youtu.be/qs8Pmj9zVEU)
 
-**Demo video:** https://youtu.be/qs8Pmj9zVEU · **Post:** _coming soon_
+**Demo video:** https://youtu.be/qs8Pmj9zVEU · **Post:** https://dev.to/wenweilin/pip-a-desktop-pet-that-notices-you-not-just-your-words-20ln
 
 ## How it works
 
