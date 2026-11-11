@@ -1,0 +1,50 @@
+<!doctype html>
+<html lang="zh">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self'; style-src 'self' 'unsafe-inline'; media-src 'self' blob: mediastream:" />
+  <title>Pip</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body data-convo="idle">
+  <canvas id="scene"></canvas>
+
+  <div id="live" hidden></div>
+  <div id="mirror" hidden><video id="mirror-video" muted playsinline></video></div>
+  <div id="bubble" hidden></div>
+  <div id="heard"></div>
+
+  <div id="consent" hidden>
+    <h2 id="consent-title"></h2>
+    <p id="consent-body"></p>
+    <div class="btns">
+      <button id="consent-allow" class="primary"></button>
+      <button id="consent-demo"></button>
+    </div>
+  </div>
+
+  <div id="bar">
+    <span class="drag">⠿</span>
+    <input id="type" autocomplete="off" />
+    <button id="btn-rec" title="Recording mode (R)">⏺</button>
+    <button id="btn-mirror" title="Mirror">🪞</button>
+    <button id="btn-cam" title="Camera">◉</button>
+    <button id="btn-lang"></button>
+    <button id="btn-close" title="Quit">✕</button>
+  </div>
+
+  <div id="dev" hidden>
+    <b>Demo (D)</b>
+    <div class="btns">
+      <button id="d-smile">Smile</button>
+      <button id="d-wow">Surprise</button>
+      <button id="d-nod">Nod</button>
+      <button id="d-speak">Pip speaks</button>
+      <button id="d-reset">Reset consent</button>
+    </div>
+  </div>
+
+  <script src="dist/renderer.bundle.js"></script>
+</body>
+</html>

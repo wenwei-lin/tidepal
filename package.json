@@ -1,0 +1,28 @@
+{
+  "name": "tidepal",
+  "version": "1.0.0",
+  "description": "Pip, a tiny octopus desktop pet that breathes with you (SmartSpectra SDK)",
+  "main": "main.js",
+  "scripts": {
+    "build": "esbuild src/renderer.js --bundle --outfile=dist/renderer.bundle.js --platform=browser --format=iife --log-level=warning",
+    "start": "npm run build && electron .",
+    "preview": "npm run build && npx --yes http-server -p 5174 -c-1 ."
+  },
+  "license": "MIT",
+  "type": "commonjs",
+  "dependencies": {
+    "@smartspectra/node-sdk": "^3.5.0",
+    "electron": "^39.8.10",
+    "ws": "^8.22.2"
+  },
+  "allowScripts": {
+    "electron@33.4.11": true,
+    "koffi@2.16.3": true,
+    "protobufjs@7.6.6": true,
+    "esbuild@0.25.12": true
+  },
+  "devDependencies": {
+    "esbuild": "^0.25.12"
+  },
+  "private": true
+}
