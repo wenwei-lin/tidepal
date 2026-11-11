@@ -11,6 +11,8 @@ Voice assistants only hear your words. Pip also sees how you look while you say 
 
 Built for the [Presage SmartSpectra SDK Challenge](https://dev.to/challenges/presage-2026-11-04).
 
+[![Pip demo video](https://img.youtube.com/vi/qs8Pmj9zVEU/hqdefault.jpg)](https://youtu.be/qs8Pmj9zVEU)
+
 **Demo video:** https://youtu.be/qs8Pmj9zVEU · **Post:** _coming soon_
 
 ## How it works
