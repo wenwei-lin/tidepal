@@ -3,3 +3,4 @@ dist/
 .env
 .DS_Store
 .old/
+cover/cover.bundle.js

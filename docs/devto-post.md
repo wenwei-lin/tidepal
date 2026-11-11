@@ -2,7 +2,7 @@
 title: "Pip: a desktop pet that notices your face, not just your words"
 published: false
 tags: devchallenge, presagechallenge, ai, javascript
-cover_image:
+cover_image: https://raw.githubusercontent.com/wenwei-lin/tidepal/main/cover/cover.png
 ---
 
 *This is a submission for the [Presage SmartSpectra SDK Challenge](https://dev.to/challenges/presage-2026-11-04).*
@@ -92,9 +92,3 @@ Pip is a pet on purpose. But the same "eyes for the person" could sit next to ot
 - **Speaking practice.** When you practise a language or a talk, the moments you frown or hesitate are the parts you haven't figured out yet. Pip could mark them and go over them with you afterwards.
 - **Coaching.** A coach could get a small timeline of your expressions next to the transcript, to see which questions landed and which didn't.
 - **Calm moments.** A short breathing break where the tide follows your breath. I built a version of this and set it aside for now.
-
-## Agent Session
-
-I built Pip with Claude Code, starting from "what could I make for this challenge?" and ending with a voice pet.
-
-<!-- To add: upload the Claude Code session at https://dev.to/agent_sessions/new, make it public, then embed it here with the agent_session tag. -->
