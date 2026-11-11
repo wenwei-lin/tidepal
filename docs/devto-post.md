@@ -20,7 +20,7 @@ What Pip does:
 - **Hears more than words.** Along with what you said, Pip's brain gets a short note of what the camera saw while you said it: expression, blink count, heart and breathing rate, and whether they went up or down.
 - **Breathes with you.** The water in its pool rises and falls with your chest, and it glows faintly with each heartbeat.
 
-It's a pet, not a tool. It can't open files or browse yet. I wanted to see what a desktop companion feels like once it has eyes for the person, not only ears for the request.
+It's a pet, not a tool. It can't open files, read the page I'm on, or browse, and that's on purpose. Agents that read your screen and use your computer already exist, and I didn't want to build yet another harness that I'd never use. I built the one piece I hadn't seen: an agent that can read the person in front of it. The idea is that this piece could later plug into other desktop pets and agents, rather than living only inside Pip. So this is a small demo of that one ability.
 
 ## Demo
 
