@@ -1,6 +1,6 @@
 # Tidepal
 
-Pip is a little octopus who lives in a tide pool on your desktop. You can talk to it.
+Pip is a desktop pet that notices you, not just your words: a little octopus who lives in a tide pool on your desktop. You can talk to it.
 
 Voice assistants only hear your words. Pip also sees how you look while you say them: it uses the [SmartSpectra SDK](https://smartspectra.presagetech.com/docs) to read your face, blinks, breathing and heartbeat through an ordinary webcam, and passes that along with what you said. So when you say "I'm fine" with a frown, Pip can notice.
 

@@ -1,8 +1,8 @@
 ---
-title: "Pip: a desktop pet that notices your face, not just your words"
+title: "Pip: a desktop pet that notices you, not just your words"
 published: false
 tags: devchallenge, presagechallenge, ai, javascript
-cover_image: https://raw.githubusercontent.com/wenwei-lin/tidepal/main/cover/cover.png
+cover_image: https://raw.githubusercontent.com/wenwei-lin/tidepal/main/cover/cover.png?v=2
 ---
 
 *This is a submission for the [Presage SmartSpectra SDK Challenge](https://dev.to/challenges/presage-2026-11-04).*
